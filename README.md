@@ -17,7 +17,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/NatalioF22/space-multiplayer-game.git
+git clone https://github.com/natalio-f-gomes/Multiplayer-Space-Game.git
 
 Install Pygame:
 
